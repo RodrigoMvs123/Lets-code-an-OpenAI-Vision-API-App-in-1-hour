@@ -12,13 +12,11 @@ https://acorn.io/rodrigomvs123/acorn
 Github Repository
 https://github.com/kubowania/react-openai-vision-app-acorn 
 
-<h1>
 Acorn UI
 … Create Project
 Name
 react-openai-vision-app-starter
 Create
-</h1>
 
 Visual Studio Code
 Terminal
