@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=73sALqCscog 
 
+https://raw.githubusercontent.com/RodrigoMvs123/Lets-code-an-OpenAI-Vision-API-App-in-1-hour/main/README.md
+
 Acron.io 
 https://acorn.io/rodrigomvs123/acorn 
 
