@@ -14,7 +14,9 @@ https://github.com/kubowania/react-openai-vision-app-acorn
 
 <p>
 Acorn UI
+<p>
 … Create Project
+</p>
 Name
 react-openai-vision-app-starter
 Create
