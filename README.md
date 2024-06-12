@@ -1,4 +1,4 @@
-# Lets-code-an-OpenAI-Vision-API-App-in-1-hour
+##  Lets-code-an-OpenAI-Vision-API-App-in-1-hour
 
 https://www.youtube.com/watch?v=73sALqCscog 
 
@@ -6,60 +6,88 @@ https://raw.githubusercontent.com/RodrigoMvs123/Lets-code-an-OpenAI-Vision-API-A
 
 https://github.com/RodrigoMvs123/Lets-code-an-OpenAI-Vision-API-App-in-1-hour/blame/main/README.md
 
-Acron.io 
-https://acorn.io/rodrigomvs123/acorn 
+## Acorn UI
+Acorn.io 
 
+- https://acorn.io/rodrigomvs123/acorn 
+
+## GitHub
 Github Repository
+
 https://github.com/kubowania/react-openai-vision-app-acorn 
 
-Acorn UI
+## Acorn UI
+```javascript
 … Create Project
 Name
 react-openai-vision-app-starter
 Create
+```
 
-Visual Studio Code
+### Visual Studio Code
 Terminal
+```bash
 git clone https://github.com/kubowania/react-openai-vision-app-acorn.git
 npm i 
 npm run start:frontend
+```
 
 localhost:3000
 
+## Acorn UI
+```javascript
 Acron CLI
 https://docs.acorn.io/install 
 Scoop (Windows)
+```
 You can install the latest Acorn CLI with the following:
-
+```bash
 scoop install acorn
 
 acorn login
 
 acorn run
-
+```
 Endpoints [ https://aged-hill-9d54fb24.zvgz4d.on-acorn.io ]
 
+```javascript
 Prompt
 acorn login index.docker.io
+```
+
+```bash
 ? Username Rodrigomvs123
    Password …
-acorn build -t index.docker.io/rodrigomvs123/react-openai-vison-app-acorn:dev - -push
+acorn build -t index.docker.io/rodrigomvs123/
+react-openai-vison-app-acorn:dev - -push
+```
 
 Browser Tab
+
 acorn.io/rodrigomvs123/react-openai-vision-app-starter?panel=Referrals 
 
-Acorn UI
+## Acorn UI
 Image
+```bash
 index.docker.io/rodrigomvs123/react-openai-vision-app:dev
+```
 
 Generate a Share Link
+```bash
 index.docker.io/rodrigomvs123/react-openai-vision-app:dev
-Link https://acorn.io/run/index.docker.io/rodrigomvs123/react-openai-vision-app-acorn:dev?ref=rodrigomvs123 ( copy link )
+```
+Link 
 
-Visual Studio Code
+https://acorn.io/run/index.docker.io/rodrigomvs123/react-openai-vision-app-acorn:dev?ref=rodrigomvs123 ( copy link )
+
+### Visual Studio Code
 Terminal
+```bash
 npm run start:backend
+```
 
+## Source Code
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -80,7 +108,9 @@ const OpenAI = require('openai')
 
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -166,7 +196,9 @@ const clear = () => {
 }
 
 export default App
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -209,7 +241,9 @@ app.post('/upload', (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -322,7 +356,9 @@ const clear = () => {
 }
 
 export default App
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -393,9 +429,12 @@ app.post('/vision', async (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
-
+```
+## OpenAI UI
 https://platform.openai.com/docs/guides/vision 
 
+## Source Code
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -403,7 +442,9 @@ Open Editors
 
 .env
 OPENAI_API_KEY= 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
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -471,6 +512,9 @@ app.post('/vision', async (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
+```
+
+```javascript
 
 Visual Studio Code
 Explorer
@@ -584,7 +628,9 @@ const clear = () => {
 }
 
 export default App
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -653,7 +699,9 @@ app.post('/vision', async (req, res) => {
 
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))
+```
 
+```javascript
 Visual Studio Code
 Explorer
 Open Editors
@@ -767,8 +815,5 @@ const clear = () => {
 }
 
 export default App
-
-
-
-
+```
 
